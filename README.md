@@ -1,4 +1,14 @@
-# InfraUltraScope UI  
+# InfraUltraScope UI 
+
+<!-- Social Badges -->
+[![GitHub stars](https://shields.io)](https://github.com)
+[![GitHub followers](https://shields.io)](https://github.com/vinaykumarkv)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/vinay-kumar-k-v/)
+
+
+
+
+
 **Infrasound & Ultrasound Visualizer + Audible Decoder**
 
 InfraUltraScope is a real-time scientific visualization and signal-decoding application built with PyQt5.  
