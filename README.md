@@ -1,9 +1,11 @@
 # InfraUltraScope UI 
 
 <!-- Social Badges -->
-[![GitHub stars](https://shields.io)](https://github.com)
-[![GitHub followers](https://shields.io)](https://github.com/vinaykumarkv)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/vinay-kumar-k-v/)
+[![GitHub followers](https://img.shields.io/github/followers/vinaykumarkv?style=social)](https://github.com/vinaykumarkv)
+
+[![GitHub stars](https://img.shields.io/github/stars/vinaykumarkv?style=social)](https://github.com/vinaykumarkv)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20K%20V-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinay-kumar-k-v/)
 
 
 
